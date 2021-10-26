@@ -1,2 +1,2 @@
-# Clasificador_Imagenes
+# Clasificador Imagenes
 Clasificador de imágenes
